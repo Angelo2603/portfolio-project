@@ -16,4 +16,5 @@ I completed the following steps:
 
 5- Then I cloned the repository to Cursor.
 
-NOTE: I had difficulty cloning the file directly from GitHub because Cursor wouldn't allow it, so I did it manually.
+NOTE: I had difficulty cloning the file directly from GitHub because Cursor wouldn't allow it, 
+I used Gemini AI to solve it, it recommended that I do it manually, and that's what I did.
